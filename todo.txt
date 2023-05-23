@@ -4,3 +4,8 @@ save form data by following after 20 mins
 
 
 make epsilon form and add feature of dynamix adding participants
+
+
+
+https://www.youtube.com/results?search_query=validate+react+form+with+regex
+https://www.youtube.com/watch?v=tIdNeoHniEY
